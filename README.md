@@ -24,7 +24,7 @@
   <a href="https://kaggle.com/ajitchauhan31" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="40" height="40"/>
   </a>
-  <a href="https://www.leetcode.com/cajit081](https://leetcode.com/u/ChauhanAjit/" target="_blank">
+  <a href="https://leetcode.com/u/ChauhanAjit/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40"/>
   </a>
 </p>
