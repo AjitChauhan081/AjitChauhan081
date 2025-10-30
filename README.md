@@ -101,12 +101,12 @@
         </a>
       </td>
       <td style="padding: 10px;">
-        <a href="#" target="_blank">
+        <a href="https://ajitchauhan31.pythonanywhere.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="portfolio" width="40" height="40"/>
         </a>
       </td>
       <td style="padding: 10px;">
-        <a href="#" target="_blank">
+        <a href="https://x.com/CAjit007" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
         </a>
       </td>
