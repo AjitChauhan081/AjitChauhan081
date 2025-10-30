@@ -17,6 +17,7 @@
 ---
 
 ### 🌐 Connect with Me
+<div style="background-color:#495E57; padding:15px; border-radius:10px;">
 <p align="left">
   <a href="https://linkedin.com/in/chauhanajit" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
@@ -27,7 +28,8 @@
   <a href="https://leetcode.com/u/ChauhanAjit/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40"/>
   </a>
-</p>
+</p> 
+</div>
 
 ---
 
