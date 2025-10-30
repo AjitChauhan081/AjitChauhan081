@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ajit Chauhan</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#495E57;">Ajit Chauhan</span></h1>
 <h3 align="center">🚀 Python Developer | Backend Enthusiast | Aspiring ML Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajitchauhan081&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=ajitchauhan081&label=Profile%20views&color=F4CE14&style=flat" alt="profile views" /> 
 </p>
 
 ---
@@ -45,17 +45,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitchauhan081&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajitchauhan081&show_icons=true&theme=buefy&border_color=F4CE14&title_color=495E57&icon_color=495E57&text_color=45474B" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitchauhan081&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitchauhan081&layout=compact&theme=buefy&border_color=F4CE14&title_color=495E57&icon_color=495E57&text_color=45474B" alt="top-langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitchauhan081&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitchauhan081&theme=buefy&border=F4CE14&ring=495E57&side=45474B&fire=F4CE14&currStreakNum=495E57&currStreakLabel=495E57" alt="streak" />
 </p>
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+✨ <span style="color:#495E57;">**_“Code is like humor. When you have to explain it, it’s bad.”_**</span> ✨
