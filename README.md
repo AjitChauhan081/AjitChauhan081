@@ -208,18 +208,6 @@
   </tbody>
 </table>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitchauhan081&show_icons=true&theme=buefy&border_color=F4CE14&title_color=495E57&icon_color=495E57&text_color=45474B" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitchauhan081&layout=compact&theme=buefy&border_color=F4CE14&title_color=495E57&icon_color=495E57&text_color=45474B" alt="top-langs" />
-</p>
-
-</p>
 
 ---
 
