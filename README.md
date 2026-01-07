@@ -181,10 +181,10 @@
     </tr>    
     <tr align="center" style="background-color: #FFFBE5;">
       <td style="padding: 10px; border: 1px solid #45474B;">
-        <a href="https://flask.palletsprojects.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/>
+        <a href="https://fastapi.tiangolo.com/" target="_blank">
+          <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="Fastapi" width="40" height="40"/>
         </a>
-        <br>Flask
+        <br>FastAPI
       </td>
       <td style="padding: 10px; border: 1px solid #45474B;">
         <a href="https://pandas.pydata.org/" target="_blank">
